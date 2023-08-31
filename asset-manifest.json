@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.c41744fd.css",
-    "main.js": "/static/js/main.a323da18.js",
+    "main.css": "/static/css/main.c1ff61d9.css",
+    "main.js": "/static/js/main.2fb69617.js",
+    "static/media/AssociateDegree.jpg": "/static/media/AssociateDegree.b96ac98b9b2bfbf014a4.jpg",
+    "static/media/MoniOnHike2.jpg": "/static/media/MoniOnHike2.4045fdb54dc8af27909f.jpg",
     "index.html": "/index.html",
-    "main.c41744fd.css.map": "/static/css/main.c41744fd.css.map",
-    "main.a323da18.js.map": "/static/js/main.a323da18.js.map"
+    "main.c1ff61d9.css.map": "/static/css/main.c1ff61d9.css.map",
+    "main.2fb69617.js.map": "/static/js/main.2fb69617.js.map"
   },
   "entrypoints": [
-    "static/css/main.c41744fd.css",
-    "static/js/main.a323da18.js"
+    "static/css/main.c1ff61d9.css",
+    "static/js/main.2fb69617.js"
   ]
 }
